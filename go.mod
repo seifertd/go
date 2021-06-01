@@ -1,3 +1,3 @@
-module dseifert.net/vector
+module dseifert.net/go
 
 go 1.15
