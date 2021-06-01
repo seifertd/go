@@ -1,3 +1,3 @@
-module dseifert.net/go
+module github.com/seifertd/go
 
 go 1.15
